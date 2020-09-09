@@ -10,5 +10,5 @@ Have added almost 50 currencies and you can calculate the exchange rates from th
 
 <img width="1138" alt="Screenshot 2020-09-09 at 10 15 44 AM" src="https://user-images.githubusercontent.com/55907622/92555506-74a89980-f285-11ea-8fa5-7435149bec7f.png">
 
-<img width="1650" alt="Screenshot 2020-09-09 at 10 15 23 AM" src="https://user-images.githubusercontent.com/55907622/92617530-02fc3a00-f2dd-11ea-9cee-b8d91b20a89d.png">
+<img width="1578" alt="Screenshot 2020-09-09 at 10 04 46 PM" src="https://user-images.githubusercontent.com/55907622/92627095-8707ef00-f2e8-11ea-9747-feeb8897790f.png">
 
